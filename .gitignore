@@ -1,0 +1,2 @@
+# ignorar modulos instalados por npm
+*node_modules/*
